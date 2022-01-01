@@ -1,5 +1,7 @@
 # alfred-graphs
 
+Robotic arm position visualisation made with [cables.gl](https://cables.gl/).
+
 ## Requirements
 
 - Python:
